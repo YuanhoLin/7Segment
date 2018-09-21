@@ -12,5 +12,5 @@ MIT
 (The metadata above is needed for package search.)
 
 ```package
-tools=github:YuanhoLin/pxt-tools
+tools=github:YuanhoLin/7Segment
 ```
