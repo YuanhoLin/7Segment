@@ -1,6 +1,6 @@
-# 4D7Segment
+# tools
 
-³o¬O±M¬°´ú¸Õ¥Îªºmicro:bit¿n¤ì
+é€™æ˜¯å°ˆç‚ºæ¸¬è©¦ç”¨çš„micro:bitç©æœ¨
 
 ## License
 
@@ -12,5 +12,5 @@ MIT
 (The metadata above is needed for package search.)
 
 ```package
-4D7Segment=github:YuanhoLin/4D7Segment
+tools=github:lioujj/pxt-tools
 ```
